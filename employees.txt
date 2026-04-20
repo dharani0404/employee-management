@@ -5,3 +5,4 @@ ID Name Role
       4  D    Devops engineeer
 5 E Manager
    6 F Accountant
+ 6 F HR
