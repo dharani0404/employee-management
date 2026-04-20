@@ -4,3 +4,4 @@ ID Name Role
       3  C    tester 
       4  D    Devops engineeer
 5 E Manager
+   6 F Accountant
